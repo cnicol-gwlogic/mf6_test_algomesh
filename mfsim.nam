@@ -1,0 +1,18 @@
+BEGIN OPTIONS
+END OPTIONS
+BEGIN TIMING
+  TDIS6 'test_mf6_algomesh.tdis'
+END TIMING
+
+BEGIN MODELS
+# mtype mfname                  mname
+  GWF6  'test_mf6_algomesh.nam' test_mf6_algomes
+END MODELS
+
+BEGIN EXCHANGES
+END EXCHANGES
+
+BEGIN SOLUTIONGROUP 1
+# slntype slnfname                slnmname
+  IMS6    'test_mf6_algomesh.ims' test_mf6_algomes
+END SOLUTIONGROUP

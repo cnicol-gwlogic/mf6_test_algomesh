@@ -1,0 +1,14 @@
+# MODFLOW-6 GWF Model Name File exported by HydroAlgorithmics' AlgoMesh 2.0.19.
+
+BEGIN OPTIONS
+  PRINT_INPUT
+  SAVE_FLOWS
+  NEWTON
+END OPTIONS
+
+BEGIN PACKAGES
+  DISU6 'test_mf6_algomesh.disu'
+  IC6   'test_mf6_algomesh.ic'
+  OC6   'test_mf6_algomesh.oc'
+  NPF6  'test_mf6_algomesh.npf'
+END PACKAGES

@@ -1,0 +1,16 @@
+# MODFLOW-6 Node Property Flow (NPF6) package exported by HydroAlgorithmics' AlgoMesh 2.0.19.
+
+BEGIN OPTIONS
+  SAVE_FLOWS
+END OPTIONS
+
+BEGIN GRIDDATA
+  ICELLTYPE
+    CONSTANT 1
+  K
+    INTERNAL
+               1          1          1          1          1          1          1          1          1          1
+  K33
+    INTERNAL
+             0.1        0.1        0.1        0.1        0.1        0.1        0.1        0.1        0.1        0.1
+END GRIDDATA

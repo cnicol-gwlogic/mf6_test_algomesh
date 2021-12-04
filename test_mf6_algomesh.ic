@@ -1,0 +1,7 @@
+# MODFLOW-6 Initial Conditions (IC6) package exported by HydroAlgorithmics' AlgoMesh 2.0.19.
+
+BEGIN GRIDDATA
+  STRT
+    INTERNAL
+            10.0000       10.0000       10.0000       10.0000       10.0000       10.0000       10.0000       10.0000       10.0000       10.0000
+END GRIDDATA

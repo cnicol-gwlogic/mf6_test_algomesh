@@ -1,0 +1,20 @@
+INFORMATION: Wrote TDIS file 'test_mf6_algomesh.tdis'.
+INFORMATION: Wrote DISU file 'test_mf6_algomesh.disu'.
+INFORMATION: Wrote IC file 'test_mf6_algomesh.ic'.
+INFORMATION: Wrote OC file 'test_mf6_algomesh.oc'.
+INFORMATION: Wrote NPF file 'test_mf6_algomesh.npf'.
+INFORMATION: No transient stress periods. STO file will not be written.
+INFORMATION: No mapped data for CHD package. CHD file will not be written.
+INFORMATION: No mapped data for WEL package. WEL file will not be written.
+INFORMATION: No mapped data for DRN package. DRN file will not be written.
+INFORMATION: No mapped data for RIV package. RIV file will not be written.
+INFORMATION: No mapped data for GHB package. GHB file will not be written.
+INFORMATION: No mapped data for RCH package. RCH file will not be written.
+INFORMATION: No mapped data for EVT package. EVT file will not be written.
+INFORMATION: Wrote IMS file 'test_mf6_algomesh.ims'.
+INFORMATION: Wrote global to layer index CSV file 'test_mf6_algomesh-global-to-layer-index.csv'.
+INFORMATION: Wrote layer to global index CSV file 'test_mf6_algomesh-layer-to-global-index.csv'.
+INFORMATION: Wrote VTK file 'test_mf6_algomesh.vtk'.
+INFORMATION: Wrote connections VTK file 'test_mf6_algomesh_connections.vtk'.
+INFORMATION: Wrote NAM file 'test_mf6_algomesh.nam'.
+INFORMATION: Wrote SIMULATION file 'mfsim.nam'.
